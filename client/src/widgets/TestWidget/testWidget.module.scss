@@ -1,0 +1,28 @@
+.test {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.card {
+  width: 100%;
+  max-width: 460px;
+  padding: 50px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px #fff solid;
+  border-radius: 16px;
+  font-size: 24px;
+  line-height: 2rem;
+  user-select: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 640px) {
+  .test {
+    flex-direction: column;
+  }
+}

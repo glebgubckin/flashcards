@@ -1,0 +1,21 @@
+.module {
+  width: 100%;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+  background: none;
+  border: 2px #fff solid;
+  border-radius: 16px;
+  font-size: 24px;
+  font-weight: 500;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.15s all linear;
+
+  &:hover {
+    background-color: #17c964;
+    border-color: #17c964;
+  }
+}

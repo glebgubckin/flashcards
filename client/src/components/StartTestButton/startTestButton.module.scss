@@ -1,0 +1,13 @@
+.startTest {
+  width: 100%;
+  padding: 50px 20px;
+  border: 2px #fff solid;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: 0.15s all linear;
+
+  &:hover {
+    background-color: #17c964;
+    border-color: #17c964;
+  }
+}

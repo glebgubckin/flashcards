@@ -1,0 +1,24 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "App for memorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebgubckin/flashcards.git"
+  },
+  "keywords": [
+    "flashcards",
+    "cards",
+    "languages"
+  ],
+  "author": "Gleb Gubkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glebgubckin/flashcards/issues"
+  },
+  "homepage": "https://github.com/glebgubckin/flashcards#readme"
+}
